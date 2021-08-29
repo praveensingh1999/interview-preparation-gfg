@@ -1,1 +1,9 @@
-
+void printresult()
+{
+cout<<"Hello world";
+}
+int main()
+{
+   printresult();
+   return 0;
+}
